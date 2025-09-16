@@ -56,7 +56,6 @@ class _DashboardScreenState extends State<DashboardScreen> {
                 ],
               ),
             ),
-            // Main content
             Expanded(
               child: Padding(
                 padding: const EdgeInsets.all(20),
