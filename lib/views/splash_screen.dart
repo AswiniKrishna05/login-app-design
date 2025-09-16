@@ -62,7 +62,7 @@ class _SplashScreenState extends State<SplashScreen> {
               const Padding(
                 padding: EdgeInsets.symmetric(horizontal: 100),
                 child: Text(
-                  'Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+                  'Lorem ipsum dolor sit amet consectetur. Eget sit nec et euismod. Consequat urna quam felis interdum quisque. Malesuada adipiscing tristique ut eget sed.',
                   style: TextStyle(
                     fontSize: 13,
                     fontWeight: FontWeight.w400,
