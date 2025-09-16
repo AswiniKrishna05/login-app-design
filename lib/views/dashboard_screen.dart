@@ -38,7 +38,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
                 height: 150,
               ),
             ),
-            // Header section with light blue background
+
             Container(
               width: double.infinity,
               padding: const EdgeInsets.all(20),
